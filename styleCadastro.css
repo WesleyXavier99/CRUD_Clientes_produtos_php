@@ -1,0 +1,36 @@
+body{
+	background-color: #90CBFB;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+
+div{
+	text-align: center;
+}
+
+div h1{
+	font-size: 50px;	
+}
+
+button{
+	border-radius: 10px;
+	border-color: white;
+	color: #90CBFB;
+	background-color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 3px 2px;
+	cursor: pointer;
+}
+
+input{
+	border-radius: 7px;
+	border-color: white;
+	margin-right: 80px;
+	color: #90CBFB;
+	background-color: white;
+}
+
